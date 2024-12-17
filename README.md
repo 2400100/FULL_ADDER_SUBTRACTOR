@@ -43,7 +43,11 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
-Write the detailed procedure here
+1. write a code in quartus software by creating a new project wizard.
+2. Run the program to get output .
+3. Then open the RTL viewer and download that image.
+4. Pen the new file with university program VWF.
+5. Set end timer and execute, then downloading the waveform. 
 
 **Program:**
 
@@ -51,7 +55,7 @@ Write the detailed procedure here
 ![Screenshot 2024-12-15 183934](https://github.com/user-attachments/assets/2afd839f-18f2-4d8f-a65d-e7c2f87ed3b1)
 
 
- Developed by: SUBIKSHA K RegisterNumber:24001100
+ Developed by: SUBIKSHA K RegisterNumber: 24001100
 
 **RTL Schematic**
 
